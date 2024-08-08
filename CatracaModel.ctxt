@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CatracaModel
+comment1.params=
+comment1.target=CatracaModel()
+comment2.params=
+comment2.target=boolean\ isAberta()
+comment3.params=
+comment3.target=void\ abrir()
+comment4.params=
+comment4.target=void\ fechar()
+numComments=5
